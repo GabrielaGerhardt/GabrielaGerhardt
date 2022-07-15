@@ -28,9 +28,24 @@ I started my course in 2021. I'm currently in my 3rd semester, learning all abou
                   
 <p align="left"> <a href="https://www.github.com/GabrielaGerhardt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriela-gerhardt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+---
 
-### My UX Projects
 
-Overview of my EDM music app project in my [repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/blob/main/UX-Design_Project/EDM_MusicAPP.pdf)
+### My UXD and UID Projects
 
-Or view directly at [Figma](https://www.figma.com/proto/99hPd8WvZAL7JhgYNv9x23/High-Fidelity?nodeid=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+<br/>
+
+#### My EDM Music App "E-Dance"
+
+This was a project i did in university. We had to design our own music app with a focus on a specific music genre.
+
+* Overview of my EDM music app project in my [Repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/blob/main/UX-Design_Project/EDM_MusicAPP.pdf)<br/>
+* Or view directly at [Figma](https://www.figma.com/proto/99hPd8WvZAL7JhgYNv9x23/High-Fidelity?nodeid=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+
+<br/>
+
+#### My Sport App for mental health "StepVenture"
+
+This is an app that combines physical activity with adventures by listening to exciting stories.
+This app was also a project i did in university.<br/>
+It is not finished yet. However, you can see the current progress on [Figma](https://www.figma.com/proto/DX304rwsrTUIf0h3pbzLcq/High-F.?node-id=494%3A1160&scaling=scale-down&page-id=0%3A1&starting-point-node-id=615%3A249)
