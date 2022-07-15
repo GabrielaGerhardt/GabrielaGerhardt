@@ -31,5 +31,4 @@ I started my course in 2021. I'm currently in my 3rd semester, learning all abou
 
 ### My UX Projects
 
-View project on [Figma].
-[Figma]: https://www.figma.com/proto/99hPd8WvZAL7JhgYNv9x23/High-Fidelity?nodeid=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
+View project at [Figma](https://www.figma.com/proto/99hPd8WvZAL7JhgYNv9x23/High-Fidelity?nodeid=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
