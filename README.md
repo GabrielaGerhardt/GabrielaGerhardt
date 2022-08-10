@@ -44,8 +44,8 @@ This was a project i did in university. We had to design our own music app with 
 
 <br/>
 
-#### My Sport App for mental health "StepVenture"
+#### A Sport App for mental health "StepVenture"
 
 This is an app that combines physical activity with adventures by listening to exciting interactive stories.
-This app was also a project i did in university.<br/>
-It is not finished yet. However, you can see the current progress on [Figma](https://www.figma.com/proto/DX304rwsrTUIf0h3pbzLcq/High-F.?node-id=0%3A1)
+This app was also a project I did in university with a group.<br/>
+You can also view it on [Figma](https://www.figma.com/proto/DX304rwsrTUIf0h3pbzLcq/High-F.?node-id=0%3A1)
