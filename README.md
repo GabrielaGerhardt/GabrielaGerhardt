@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Media Student
 --------------------
 
-I started my course in 2021. I'm currently in my 3rd semester, learning all about creating mobile applications, including software development, web development, UX -Design and more.
+I started my course in 2021. I'm currently in my 4th semester, learning all about creating mobile applications, including software development, web development, UX -Design and more.
 
 *   🌍  I'm based in Stuttgart, Germany
 *   🖥️  See my portfolio at [My GitHub Page](http://github.com/GabrielaGerhardt)
@@ -29,7 +29,9 @@ I started my course in 2021. I'm currently in my 3rd semester, learning all abou
 <p align="left"> <a href="https://www.github.com/GabrielaGerhardt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriela-gerhardt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
+### My CV Website
 
+<a href="https://gabrielagerhardt.github.io/CV/">Gabriela's Website</a>
 
 ### My UXD and UID Projects
 
