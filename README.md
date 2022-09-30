@@ -31,7 +31,7 @@ I started my course in 2021. I'm currently in my 4th semester, learning all abou
 ---
 ### My CV Website
 
-<a href="https://gabrielagerhardt.github.io/CV/">Gabriela's Website</a>
+<a href="https://gabrielagerhardt.github.io/CV/">Gabriela's Website</a> (work in progress)
 
 ### My UXD and UID Projects
 
