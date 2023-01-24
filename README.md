@@ -62,3 +62,12 @@ Here are some of the works i have done.
 #### Game Art
 
 * See an overview of my Game Art projects here in my [Repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/tree/main/Game%20Design)<br/>
+
+
+### Database / SQL - Projects
+
+Here are some of my SQL - Projects.
+
+#### SQL
+
+* See an overview of my SQL projects here in my [Repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/tree/main/SQL-Projects)<br/>
