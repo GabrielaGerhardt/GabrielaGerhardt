@@ -53,3 +53,12 @@ This was a project i did in university. We had to design our own music app with 
 This is an app that combines physical activity with adventures by listening to exciting interactive stories.
 This app was also a project I did in university with a group.<br/>
 You can also view it on [Figma](https://www.figma.com/proto/DX304rwsrTUIf0h3pbzLcq/High-F.?node-id=0%3A1)
+
+
+### Graphic Design Projects
+
+Here are some of the works i have done.
+
+#### Game Art
+
+* See an overview of my Game Art projects here in my [Repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/tree/main/Game%20Design)<br/>
