@@ -54,20 +54,34 @@ This is an app that combines physical activity with adventures by listening to e
 This app was also a project I did in university with a group.<br/>
 You can also view it on [Figma](https://www.figma.com/proto/DX304rwsrTUIf0h3pbzLcq/High-F.?node-id=0%3A1)
 
+<br/>
 
 ### Graphic Design Projects
 
+<br/>
+
 Here are some of the works i have done.
+
+<br/>
 
 #### Game Art
 
+<br/>
+
 * See an overview of my Game Art projects here in my [Repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/tree/main/Game%20Design)<br/>
 
+<br/>
 
 ### Database / SQL - Projects
 
+<br/>
+
 Here are some of my SQL - Projects.
 
+<br/>
+
 #### SQL
+
+<br/>
 
 * See an overview of my SQL projects here in my [Repository](https://github.com/GabrielaGerhardt/GabrielaGerhardt/tree/main/SQL-Projects)<br/>
