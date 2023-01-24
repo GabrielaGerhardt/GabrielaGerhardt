@@ -6,6 +6,8 @@ Mobile Media Student
 
 I started my course in 2021. I'm currently in my 4th semester, learning all about creating mobile applications, including software development, web development, UX -Design and more.
 
+I am currently working as a graphic designer for NAiSE GmbH.
+
 *   🌍  I'm based in Stuttgart, Germany
 *   🖥️  See my portfolio at [My GitHub Page](http://github.com/GabrielaGerhardt)
 *   ✉️  You can contact me at [gerhardt.gabriela95@gmail.com](mailto:gerhardt.gabriela95@gmail.com)
