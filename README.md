@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Media Student
 --------------------
 
-I started my course in 2021. I'm currently in my 4th semester, learning all about creating mobile applications, including software development, web development, UX -Design and more.
+I started my course in 2021. I'm currently in my 6th semester, learning all about creating mobile applications, including software development, web development, UX -Design and more.
 
 I am currently working as a graphic designer for NAiSE GmbH.
 
